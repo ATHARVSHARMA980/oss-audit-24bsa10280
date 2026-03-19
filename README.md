@@ -4,8 +4,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Ashok Kumar Dubey |
-| **Registration Number** | 24BCE10968 |
+| **Student Name** | Rishabh Raj |
+| **Registration Number** | 24BSA10279 |
 | **Software Audited** | Git (Version Control System) |
 | **License** | GNU General Public License v2 (GPL v2) |
 | **Course** | Open Source Software (NGMC) |
