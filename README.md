@@ -4,8 +4,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Rishabh Raj |
-| **Registration Number** | 24BSA10279 |
+| **Student Name** | atharv sharma |
+| **Registration Number** | 24BSA10280 |
 | **Software Audited** | Git (Version Control System) |
 | **License** | GNU General Public License v2 (GPL v2) |
 | **Course** | Open Source Software (NGMC) |
