@@ -5,8 +5,8 @@
 # Purpose: Display key system information as a welcome/audit screen
 
 # --- Student and project variables ---
-STUDENT_NAME="Ashok Kumar Dubey"
-REG_NUMBER="24BCE10968"
+STUDENT_NAME="Atharv sharma"
+REG_NUMBER="24BSA10280"
 SOFTWARE_CHOICE="Git"
 SOFTWARE_LICENSE="GNU General Public License v2 (GPL v2)"
 
